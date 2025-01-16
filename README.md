@@ -1,7 +1,7 @@
 # pelindo_apps
 
 Project ini dibuat untuk pembelajaran dan juga untuk memenuhi tugas akhir atau kelulusan dalam perkulihan. 
-Project ini juga dibangun untuk memenuhi kebutuhan sebuah perusahaan agar lebih mudah dalam mengola sebuah akses dalama management data. 
+Project ini juga dibangun untuk memenuhi kebutuhan sebuah perusahaan agar lebih mudah dalam mengelola sebuah akses dalama management data. 
 
 ## Getting Started
 
