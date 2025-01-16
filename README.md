@@ -1,6 +1,7 @@
 # pelindo_apps
 
-A new Flutter project.
+Project ini dibuat untuk pembelajaran dan juga untuk memenuhi tugas akhir atau kelulusan dalam perkulihan. 
+Project ini juga dibangun untuk memenuhi kebutuhan sebuah perusahaan agar lebih mudah dalam mengola sebuah akses dalama management data. 
 
 ## Getting Started
 
@@ -14,3 +15,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Our Team
+
+## This Dokumentasi
+
+## How to firt run this project
