@@ -1,0 +1,44 @@
+name: pelindo_apps
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.4+4
+  file_picker: ^5.2.2
+  gap: ^3.0.1
+  google_fonts: ^6.2.0
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  assets:
+  - assets/images/personal.png
+  - assets/images/company.png
+  - assets/images/1polindo.png
+  - assets/images/facebook_ic.png
+  - assets/images/apple_ic.png
+  - assets/images/google_ic.png
+  - assets/images/hi_polindo.png
+  - assets/images/bg_polindo.png
+  - assets/images/
+  - assets/images/avatar/
+  - assets/images/avatar/hrprofile/
+  - assets/images/avatar/notifprofile/
+
+  uses-material-design: true
+
+fonts:
+- assets/fonts/
