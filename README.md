@@ -33,19 +33,19 @@ Link Screen Recorder
 ## How to frist run this project
 ### Perintah Bash untuk menjalan kodingan flutter
 
-### Pertama
+#### Pertama
 ```bash
 flutter clean
 ```
-### kedua
+#### kedua
 ```bash
 flutter pub get
 ```
-### ketiga
+#### ketiga
 ```bash
 flutter doctor
 ```
-### keempat
+#### keempat
 ```bash
 flutter upgrade
 ```
@@ -53,7 +53,7 @@ flutter upgrade
 
 Jika pada saat di jalankan perintah flutter doctor ada tanda silang ❌ artinya dependenci tidak lengkap, pastikan untuk melengkapi semua dependenci yang diminta agar bertanda centang ✅ dan bisa menjalankan project Flutter.
 
-### perintah selenajutnya setelah selesai melengkali dependenci
+#### perintah selenajutnya setelah selesai melengkali dependenci
 ```bash
 flutter upgrade
 ```
