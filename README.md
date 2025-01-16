@@ -31,3 +31,36 @@ Link Screen Recorder
 - [Tahap 2 Final](https://docs.flutter.dev/get-started/codelab).
 
 ## How to frist run this project
+### Perintah Bash untuk menjalan kodingan flutter
+
+### Pertama
+```bash
+flutter clean
+```
+### kedua
+```bash
+flutter pub get
+```
+### ketiga
+```bash
+flutter doctor
+```
+### keempat
+```bash
+flutter upgrade
+```
+
+
+Jika pada saat di jalankan perintah flutter doctor ada tanda silang ❌ artinya dependenci tidak lengkap, pastikan untuk melengkapi semua dependenci yang diminta agar bertanda centang ✅ dan bisa menjalankan project Flutter.
+
+### perintah selenajutnya setelah selesai melengkali dependenci
+```bash
+flutter upgrade
+```
+```bash
+flutter pub get
+```
+```bash
+flutter run
+```
+
