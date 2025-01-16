@@ -28,4 +28,4 @@ Link Screen Recorder
 - [Tahap 1 Final](https://docs.flutter.dev/get-started/codelab).
 - [Tahap 2 Final](https://docs.flutter.dev/get-started/codelab).
 
-## How to firt run this project
+## How to frist run this project
