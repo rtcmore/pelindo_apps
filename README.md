@@ -25,6 +25,8 @@ ProtoType Project (not complite)
 
 
 - <a href="https://docs.flutter.dev/get-started/codelab" target="_blank">Design Project in Figma</a>
+- <a href="https://docs.flutter.dev/get-started/codelab" target="_blank" rel="noopener noreferrer">Design Project in Figma</a>
+
 
 Link Screen Recorder
 - [Tahap 1](https://www.youtube.com/watch?v=HgB8X_k5EA8).
