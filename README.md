@@ -23,7 +23,8 @@ samples, guidance on mobile development, and a full API reference.
 ProtoType Project (not complite)
 ![header img](https://github.com/user-attachments/assets/8c46ee0f-335f-455e-92a6-0b08db7d20e5)
 
-- [Design Project in Figma](https://docs.flutter.dev/get-started/codelab)
+
+- <a href="https://docs.flutter.dev/get-started/codelab" target="_blank">Design Project in Figma</a>
 
 Link Screen Recorder
 - [Tahap 1](https://www.youtube.com/watch?v=HgB8X_k5EA8).
