@@ -20,5 +20,12 @@ samples, guidance on mobile development, and a full API reference.
 ## Our Team
 
 ## This Dokumentasi
+ProtoType Project 
+[Design Project in Figma](https://docs.flutter.dev/get-started/codelab)
+
+Link Screen Recorder
+[Tahap 1](https://www.youtube.com/watch?v=HgB8X_k5EA8)
+[Tahap 1 Final](https://docs.flutter.dev/get-started/codelab)
+[Tahap 2 Final](https://docs.flutter.dev/get-started/codelab)
 
 ## How to firt run this project
